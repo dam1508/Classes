@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1551908670 source:/home/dam1508/Pulpit/Studia/Klasy/Warrior.cpp
+	<iostream>
+	"Warrior.h"
+
+1551908623 /home/dam1508/Pulpit/Studia/Klasy/Warrior.h
+	<iostream>
+
+1551910361 source:/home/dam1508/Pulpit/Studia/Klasy/main.cpp
+	<iostream>
+	"Warrior.h"
+	"Mage.h"
+
+1551908632 source:/home/dam1508/Pulpit/Studia/Klasy/Mage.cpp
+	<iostream>
+	"Mage.h"
+
+1551908653 /home/dam1508/Pulpit/Studia/Klasy/Mage.h
+	<iostream>
+
