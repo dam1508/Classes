@@ -74,6 +74,5 @@ int main()
             }
         }
     }
-
-
+int *random_pointer = new int;
 }
