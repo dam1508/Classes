@@ -23,7 +23,12 @@ int main()
 
     cout<<"Kim chcesz grac?"<<endl<<"1. Wojownik"<<endl<<"2. Mag"<<endl;
     cin>>x;
-
+    
+    while(x>0)
+    {
+        cout<<"error ";
+    }
+    
     if( x==1 )
     {
 
